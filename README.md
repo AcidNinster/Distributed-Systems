@@ -1,1 +1,1 @@
-Distributed Systems exercises and my solutions
+Distributed Systems assignments and my solutions
